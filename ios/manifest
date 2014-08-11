@@ -15,4 +15,4 @@ name: tandemscroll
 moduleid: ti.tandemscroll
 guid: f7f041db-989f-47c9-b009-7977a59497a2
 platform: iphone
-minsdk: 1.8.0.1
+minsdk: 3.2.2.GA
